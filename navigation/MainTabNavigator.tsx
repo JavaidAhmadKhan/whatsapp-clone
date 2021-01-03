@@ -41,7 +41,7 @@ export default function MainTabNavigator() {
         component={TabOneNavigator}
         options={{
           tabBarIcon: ({ color }) => (
-            <Fontisto name="Camera" color={color} size={18} />
+            <Fontisto name="camera" color={color} size={18} />
           ),
           tabBarLabel: () => null,
         }}
