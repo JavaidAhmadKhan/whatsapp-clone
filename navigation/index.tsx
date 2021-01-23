@@ -60,7 +60,7 @@ function RootNavigator() {
         name="Root"
         component={MainTabNavigator}
         options={{
-          title: "Wolzon",
+          title: "WhatsApp",
           headerRight: () => (
             <View
               style={{
